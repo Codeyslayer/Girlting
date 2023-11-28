@@ -1,0 +1,14 @@
+package crybaby;
+
+public class daBaby {
+
+	public static void main(String[] args) {
+		megan stallion = new megan();
+		stallion.gender = "stripper";
+		System.out.println(stallion.gender);
+		
+
+	}
+
+}
+
